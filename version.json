@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.8",
-  "downloadUrl": "https://你的下载地址/像素打乱器_v1.8.apk",
-  "releaseNotes": "1. 新增应用内自动检测更新\n2. 优化水印显示位置\n3. 修复旧版本兼容性问题"
+  "versionCode": 8,
+  "versionName": "2.0",
+  "downloadUrl": "https://raw.githubusercontent.com/funingnafengdan7-oss/pixel-update/main/%E5%83%8F%E7%B4%A0%E6%89%93%E4%B9%B1%E5%99%A8_v2.0.apk",
+  "releaseNotes": "1. 水印移到底部\n2. 新增自动更新检测\n3. 修复旧版本兼容性"
 }
