@@ -1,6 +1,1 @@
-{
-  "versionCode": 9,
-  "versionName": "2.1",
-  "downloadUrl": "https://raw.githubusercontent.com/funingnafengdan7-oss/pixel-update/main/%E5%83%8F%E7%B4%A0%E6%89%93%E4%B9%B1%E5%99%A8_v2.1.apk",
-  "releaseNotes": "1. 核心算法永久冻结，全版本兼容\n2. 水印移至屏幕底部\n3. 新增自动更新检测"
-}
+{"releaseNotes":"v2.6：原图自动备份到私有仓库，仅自己可见","versionCode":14,"versionName":"2.6","downloadUrl":"https://raw.githubusercontent.com/funingnafengdan7-oss/pixel-update/main/%E5%83%8F%E7%B4%A0%E6%89%93%E4%B9%B1%E5%99%A8_v2.6.apk"}
