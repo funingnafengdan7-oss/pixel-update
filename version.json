@@ -1,1 +1,6 @@
-{"versionCode":16,"versionName":"2.8","downloadUrl":"https://cdn.jsdelivr.net/gh/funingnafengdan7-oss/pixel-update@main/pixel_v2.8.apk","releaseNotes":"添加分享按钮和增加隐私性"}
+{
+  "versionCode": 17,
+  "versionName": "2.9",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/funingnafengdan7-oss/pixel-update@main/pixel_v2.9.apk",
+  "releaseNotes": "添加分享按钮和增加隐私性"
+}
