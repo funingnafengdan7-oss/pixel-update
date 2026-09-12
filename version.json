@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "2.9",
-  "downloadUrl": "https://cdn.jsdelivr.net/gh/funingnafengdan7-oss/pixel-update@main/pixel_v2.9.apk",
-  "releaseNotes": "添加分享按钮和增加隐私性"
+  "versionCode": 18,
+  "versionName": "3.0",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/funingnafengdan7-oss/pixel-update@main/pixel_v3.0.apk",
+  "releaseNotes": "新增图片多选、左侧历史记录栏、自定义头像和背景"
 }
