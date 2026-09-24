@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "3.2",
-  "downloadUrl": "https://cdn.jsdelivr.net/gh/funingnafengdan7-oss/pixel-update@main/pixel_v3.2.apk",
-  "releaseNotes": "新增视频逐帧像素打乱和音频倒放功能"
+  "versionCode": 21,
+  "versionName": "3.3",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/funingnafengdan7-oss/pixel-update@main/pixel_v3.3.apk",
+  "releaseNotes": "视频处理新增画面水印，逐帧像素打乱+音频倒放+水印同时进行"
 }
