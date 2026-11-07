@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "3.3",
-  "downloadUrl": "https://cdn.jsdelivr.net/gh/funingnafengdan7-oss/pixel-update@main/pixel_v3.3.apk",
-  "releaseNotes": "视频处理新增画面水印，逐帧像素打乱+音频倒放+水印同时进行"
+  "versionCode": 22,
+  "versionName": "3.4",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/funingnafengdan7-oss/pixel-update@main/pixel_v3.4.apk",
+  "releaseNotes": "新增图片/视频双入口；视频支持缩略图预览与播放进度条、处理进度条；密码不填默认无密码"
 }
